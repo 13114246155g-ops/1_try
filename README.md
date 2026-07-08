@@ -2,7 +2,8 @@
 
 ## Intro
 
-my first time use github and advanced ai tools, here is my first work in Github, hope you guys will not like it "q_q"
+Hello, maybe no one would notice me but this is my first time use github and advanced ai tools in 2026/7/9;
+Here is my first work in Github, hope you guys will not like it "q_q"
 
 ## Code
 
